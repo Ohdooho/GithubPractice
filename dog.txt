@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 name : waKKKKK
+=======
+name : wal
+>>>>>>> 0876d75 (aaa)
